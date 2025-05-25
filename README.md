@@ -1,12 +1,10 @@
-# PostgreSQL.
+# PostgreSQL
 
 PostgreSQL একটি ওপেন-সোর্স রিলেশনাল ডাটাবেস ম্যানেজমেন্ট সিস্টেম। এটি SQL (রিলেশনাল) এবং JSON (নন-রিলেশনাল) উভয় ধরণের কোয়েরি সমর্থন করে, যা এটিকে আধুনিক অ্যাপ্লিকেশনের উপযোগী করে তোলে।
 
 
-PostgreSQL বৈশিষ্ট্য:
-- **<code>type</code> can be used for <code>Primitive</code>, <code>Non-primitive</code>, and <code>Tuple</code> types.**
 
-## এসকিউএল কমপ্লায়েন্স
+### এসকিউএল কমপ্লায়েন্স
 এটি জটিল কোয়েরি, জয়েন, সাবকোয়েরি এবং কমন টেবিল এক্সপ্রেশন  সমর্থন করে।
 
 ## এসিড কমপ্লায়েন্স( Atomicity, Consistency, Isolation, and Durability )
