@@ -118,13 +118,10 @@ SELECT স্টেটমেন্টের WHERE ক্লজটি একট�
 
 
 ## কন্ডিশনাল লজিক:
-Comparison operators: =, <> (or !=), >, <, >=, <=
-
-Logical operators: AND, OR, NOT
-
-Pattern matching: LIKE, ILIKE (case-insensitive), SIMILAR TO
-
-Range checks: BETWEEN, IN
+- **Comparison operators: =, <> (or !=), >, <, >=, <=**
+- **Logical operators: AND, OR, NOT**
+- **Pattern matching: LIKE, ILIKE (case-insensitive), SIMILAR TO**
+- **Range checks: BETWEEN, IN**
 
 
 #### <code>উদাহরণ:</code> 
